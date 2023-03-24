@@ -397,6 +397,9 @@ app.layout = dbc.Tabs(
     ]
 )
 
+# Server
+server = app.server
+
 
 #############
 # CALLBACKS #
